@@ -1,4 +1,4 @@
-<img src='assets/banner/Cover_Linkedin_AICM-v1.1.4.png' alt='my banner'>
+<img src='assets/banner/banner-jairzinho-v1.0.png' alt='my banner'>
 
 <h1 align="Left">
   Hi, I'm Jairzinho 🇵🇪👋
