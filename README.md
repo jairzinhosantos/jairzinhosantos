@@ -14,7 +14,7 @@ I'm building two exciting projects:
 
 My current journey delves deep into AI, where I'm researching fields such as: LLMs, Gen AI, RL, DL and ML.
 
-I've just launched my Discord, a space dedicated to sharing the latest in AI and insights from my own journey deep dive into AI.
+I've just launched my Discord, a space dedicated to sharing the latest in AI and insights from my journey deep dive into AI.
 
 <h3 align="left">
   Connect with me:
