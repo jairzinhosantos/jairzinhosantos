@@ -29,4 +29,6 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
     <img src='assets/social-icons/linkedin.png' alt='icon | Linkedin' width='50px'/></a>
   <a href='https://www.youtube.com/@jairzinho.santos'>
     <img src='assets/social-icons/youtube.png' alt='icon | Youtube' width='50px'/></a>
+  <a href='https://www.instagram.com/jairzinho.santos/'>
+    <img src='assets/social-icons/instagram.png' alt='icon | Instagram' width='50px'/></a>
 </p>
