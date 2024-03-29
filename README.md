@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="left">
+  Hi, I'm Jairzinho Santos 👋
+</h1>
 
-<!--
-**jairzinhosantos/jairzinhosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a human passionate about technological changes, business, innovation and future. I've 5 years in business technology ecosystem and currently I'm taking a journey towards AI.
+Currently working on 2 projects.
 
-Here are some ideas to get you started:
+- [Yotminds](https://www.linkedin.com/company/yotminds), a Business Technology Consulting startup, with the mission of enhance the companies daily life, simplifying their processes and empowering them with the AI power.
+- [Ai Curious Minds](https://www.linkedin.com/company/aicuriousminds), an inclusive AI enthusiasts community with a mission to empower humanity for the AI future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">
+  Connect with me:
+</h3>
+
+[Twitter](https://twitter.com/_jairzinho_) [LinkedIn](https://www.linkedin.com/in/jairzinhosantos/) [Youtube](https://www.youtube.com/@jairzinho.santos)
