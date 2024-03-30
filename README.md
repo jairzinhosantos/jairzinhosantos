@@ -1,7 +1,7 @@
 <img src='assets/banner/banner-jairzinho-v1.0.png' alt='my banner'>
 
 <h1 align="Left">
-  Hi, I'm Jairzinho 🇵🇪👋
+  Hi, I'm Jairzinho Santos 🇵🇪👋
 </h1>
 
 **`Telecom Engineer Focused on Computer Science`**
