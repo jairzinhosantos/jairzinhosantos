@@ -26,6 +26,9 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
     <img src='assets/icons/technologies/programming-languages/scala.png' alt='icon | scala' width='40px'/></a>
     <img src='assets/icons/technologies/programming-languages/bash.png' alt='icon | bash' width='40px'/></a>
     <img src='assets/icons/technologies/programming-languages/c++.png' alt='icon | c++' width='40px'/></a>
+    <img src='assets/icons/technologies/programming-languages/vscode.png' alt='icon | vscode' width='40px'/></a>
+    <img src='assets/icons/technologies/programming-languages/jupyter.png' alt='icon | jupyter' width='40px'/></a>
+    <img src='assets/icons/technologies/programming-languages/pycharm.png' alt='icon | pycharm' width='40px'/></a>
 </p>
 
 <p align='left' alt='icon | databases'>
