@@ -66,13 +66,13 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
 </h2>
 <p align='left'>
   <a href='https://twitter.com/_jairzinho_'>
-    <img src='assets/icons/social-networks/discord.png' alt='icon | Discord' width='70px'/></a>
+    <img src='assets/icons/social-networks/discord.png' alt='icon | Discord' width='60px'/></a>
   <a href='https://twitter.com/_jairzinho_'>
-    <img src='assets/icons/social-networks/twitter.png' alt='icon | Twitter' width='70px'/></a>
+    <img src='assets/icons/social-networks/twitter.png' alt='icon | Twitter' width='60px'/></a>
   <a href='https://www.linkedin.com/in/jairzinhosantos/'>
-    <img src='assets/icons/social-networks/linkedin.png' alt='icon | Linkedin' width='70px'/></a>
+    <img src='assets/icons/social-networks/linkedin.png' alt='icon | Linkedin' width='60px'/></a>
   <a href='https://www.youtube.com/@jairzinho.santos'>
-    <img src='assets/icons/social-networks/youtube.png' alt='icon | Youtube' width='70px'/></a>
+    <img src='assets/icons/social-networks/youtube.png' alt='icon | Youtube' width='60px'/></a>
   <a href='https://www.instagram.com/jairzinho.santos/'>
-    <img src='assets/icons/social-networks/instagram.png' alt='icon | Instagram' width='70px'/></a>
+    <img src='assets/icons/social-networks/instagram.png' alt='icon | Instagram' width='60px'/></a>
 </p>
