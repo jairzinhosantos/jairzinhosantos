@@ -19,11 +19,6 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
 <h2 align="left">
   Technology Background:
 </h2>
-<p align='left' alt='icon | cloud'>
-    <img src='assets/icons/technologies/cloud/aws.png' alt='icon | aws' width='40px'/></a>
-    <img src='assets/icons/technologies/cloud/azure.png' alt='icon | azure' width='40px'/></a>
-    <img src='assets/icons/technologies/cloud/gcp.png' alt='icon | gcp' width='40px'/></a>
-</p>
 
 <p align='left' alt='icon | programming-languages'>
     <img src='assets/icons/technologies/programming-languages/python.png' alt='icon | python' width='40px'/></a>
@@ -36,11 +31,34 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
 <p align='left' alt='icon | databases'>
     <img src='assets/icons/technologies/databases/postgresql.png' alt='icon | postgresql' width='40px'/></a>
     <img src='assets/icons/technologies/databases/sql-server.png' alt='icon | sql-server' width='40px'/></a>
+    <img src='assets/icons/technologies/databases/oracle.png' alt='icon | oracle' width='40px'/></a>
     <img src='assets/icons/technologies/databases/mysql.png' alt='icon | mysql' width='40px'/></a>
     <img src='assets/icons/technologies/databases/mariadb.png' alt='icon | mariadb' width='40px'/></a>
     <img src='assets/icons/technologies/databases/mongodb.png' alt='icon | mongodb' width='40px'/></a>
     <img src='assets/icons/technologies/databases/cassandra.png' alt='icon | cassandra' width='40px'/></a>
+    <img src='assets/icons/technologies/databases/elasticsearch.png' alt='icon | elasticsearch' width='40px'/></a>
+    <img src='assets/icons/technologies/databases/hadoop.png' alt='icon | hadoop' width='40px'/></a>
+    <img src='assets/icons/technologies/databases/spark.png' alt='icon | spark' width='40px'/></a>
+    <img src='assets/icons/technologies/databases/databricks.png' alt='icon | databricks' width='40px'/></a>
+    <img src='assets/icons/technologies/databases/cloudera.png' alt='icon | cloudera' width='40px'/></a>
     <img src='assets/icons/technologies/databases/ibm-db2.png' alt='icon | ibm-db2' width='40px'/></a>
+</p>
+
+<p align='left' alt='icon | s.o.'>
+    <img src='assets/icons/technologies/s.o./docker.webp' alt='icon | docker' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./kubernetes.png' alt='icon | kubernetes' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./openshift.webp' alt='icon | openshift' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./linux.png' alt='icon | linux' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./redhat.png' alt='icon | red-hat' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./centos.png' alt='icon | centos' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./fedora.png' alt='icon | fedora' width='40px'/></a>
+    <img src='assets/icons/technologies/s.o./ubuntu.png' alt='icon | ubuntu' width='40px'/></a>
+</p>
+
+<p align='left' alt='icon | cloud'>
+    <img src='assets/icons/technologies/cloud/aws.png' alt='icon | aws' width='40px'/></a>
+    <img src='assets/icons/technologies/cloud/azure.png' alt='icon | azure' width='40px'/></a>
+    <img src='assets/icons/technologies/cloud/gcp.png' alt='icon | gcp' width='40px'/></a>
 </p>
 
 <h2 align="left">
