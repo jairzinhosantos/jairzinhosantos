@@ -6,7 +6,7 @@
 
 **`A Telecom Engineer Focused on Computer Science`**
 
-I'm a human passionate about technological changes, business, innovation and future. I've 5 years in business technology ecosystem.
+A human passionate about technological changes, business, innovation and future. I've 5 years in business technology ecosystem.
 
 I'm building two exciting projects:
 - [**`Yotminds`**](https://www.yotminds.com) A dynamic Business Technology Consulting startup, aimed at enhancing the companies daily life, simplifying their processes and empowering them with AI power.
