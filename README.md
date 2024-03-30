@@ -10,9 +10,9 @@ I'm a human passionate about technological changes, business, innovation and fut
 
 I'm building two exciting projects:
 - [**`Yotminds`**](https://www.yotminds.com) A dynamic Business Technology Consulting startup, aimed at enhancing the companies daily life, simplifying their processes and empowering them with AI power.
-- [**`Ai Curious Minds`**](https://www.aicuriousminds.com) A vibrant AI enthusiasts global community committed to empower humanity for the AI future.
+- [**`Ai Curious Minds`**](https://www.aicuriousminds.com) A vibrant AI enthusiasts global community committed to empowering humanity for an AI-driven future.
 
-In addition, I'm taking a journey delves deep into AI, where I'm researching fields such as: LLM, Gen AI, RL, DL and ML.
+Additionally, I'm taking a journey delves deep into AI, where I'm researching fields such as: LLM, Gen AI, RL, DL and ML.
 
 I've just launched my Discord, a space dedicated to sharing the latest in AI and insights from my journey deep dive into AI.
 
