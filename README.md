@@ -23,7 +23,7 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
 <p align='left' alt='icon | visualization-tools'>
     <img src='assets/icons/technologies/visualization-tools/powerbi.png' alt='icon | powerbi' width='40px'/></a>
     <img src='assets/icons/technologies/visualization-tools/tableau.webp' alt='icon | tableau' width='40px'/></a>
-    <img src='assets/icons/technologies/visualization-tools/looker.png' alt='icon | looker' width='40px'/></a>
+    <img src='assets/icons/technologies/visualization-tools/looker.svg' alt='icon | looker' width='40px'/></a>
 </p>
 
 <p align='left' alt='icon | programming-languages'>
