@@ -20,6 +20,12 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
   Technology Background:
 </h2>
 
+<p align='left' alt='icon | visualization-tools'>
+    <img src='assets/icons/technologies/visualization-tools/powerbi.png' alt='icon | powerbi' width='40px'/></a>
+    <img src='assets/icons/technologies/visualization-tools/tableau.png' alt='icon | tableau' width='40px'/></a>
+    <img src='assets/icons/technologies/visualization-tools/looker.png' alt='icon | looker' width='40px'/></a>
+</p>
+
 <p align='left' alt='icon | programming-languages'>
     <img src='assets/icons/technologies/programming-languages/python.png' alt='icon | python' width='40px'/></a>
     <img src='assets/icons/technologies/programming-languages/java.png' alt='icon | java' width='40px'/></a>
