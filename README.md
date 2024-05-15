@@ -4,9 +4,9 @@
   Hi, I'm Jairzinho Santos 🇵🇪👋
 </h1>
 
-**`Telecom Engineer Focused on Computer Science`**
+**`AI Engineer and Researcher`**
 
-A human passionate about technology, business, innovation and future. More than 5 years in business technology ecosystem.
+A human passionate about technology, business, innovation and future. 6+ years in business technology ecosystem.
 
 Building two exciting ventures:
 - [**`Yotminds`**](https://www.linkedin.com/company/yotminds/) A dynamic Business Technology Consulting startup, aimed at enhancing the companies daily life, simplifying their processes and empowering them with AI power.
