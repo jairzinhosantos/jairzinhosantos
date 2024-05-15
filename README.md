@@ -9,7 +9,7 @@
 A human passionate about technology, business, innovation and future. More than 5 years in business technology ecosystem.
 
 Building two exciting ventures:
-- [**`Yotminds`**](https://www.yotminds.com) A dynamic Business Technology Consulting startup, aimed at enhancing the companies daily life, simplifying their processes and empowering them with AI power.
+- [**`Yotminds`**](https://www.linkedin.com/company/yotminds/) A dynamic Business Technology Consulting startup, aimed at enhancing the companies daily life, simplifying their processes and empowering them with AI power.
 - [**`Ai Curious Minds`**](https://www.aicuriousminds.com) A vibrant AI enthusiasts global community committed to empowering humanity for an AI-driven future.
 
 Additionally, I take a journey delves deep into AI, where I research fields such as: LLM, Gen AI, RL, DL and ML.
