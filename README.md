@@ -4,7 +4,7 @@
   Hi, I'm Jairzinho Santos 🇵🇪👋
 </h1>
 
-**`AI Engineer & Researcher`**
+**`AI Engineer & Researcher | Solution Architect`**
 
 A human passionate about technology, business, innovation and future. 6+ years in business technology ecosystem.
 
