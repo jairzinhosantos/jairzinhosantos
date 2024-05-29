@@ -7,12 +7,12 @@
 **`AI Engineer & Researcher | Solution Architect`**
 
 A human passionate about technology, business, innovation and future. 6+ years in business technology ecosystem.
+Currently, I serve as AI Engineer, while also engaging in AI research within a global community.
 
-Building two exciting ventures:
-- [**`Yotminds`**](https://www.linkedin.com/company/yotminds/) A dynamic Business Technology Consulting startup, aimed at enhancing the companies daily life, simplifying their processes and empowering them with AI power.
+Building a exciting ventures:
 - [**`Ai Curious Minds`**](https://www.aicuriousminds.com) A vibrant AI enthusiasts global community committed to empowering humanity for an AI-driven future.
 
-Additionally, I take a journey delves deep into AI, where I research fields such as: LLM, Gen AI, RL, DL and ML.
+Actively researching areas such as LLMs, Generative AI, Reinforcement Learning, Computer Vision, Neural Networks, Quantum Computing and Computational Neuroscience.
 
 I've just launched my Discord, a space dedicated to sharing the latest in AI and insights from my journey deep dive into AI.
 
@@ -83,10 +83,10 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
 <p align='left'>
   <a href='pending_discord_link'>
     <img src='assets/look-and-feel/icons/social-networks/color/discord.png' alt='icon | Discord' width='60px'/></a>
-  <a href='https://twitter.com/_jairzinho_'>
-    <img src='assets/look-and-feel/icons/social-networks/color/twitter.png' alt='icon | Twitter' width='60px'/></a>
   <a href='https://www.linkedin.com/in/jairzinhosantos/'>
     <img src='assets/look-and-feel/icons/social-networks/color/linkedin.png' alt='icon | Linkedin' width='60px'/></a>
+  <a href='https://twitter.com/_jairzinho_'>
+    <img src='assets/look-and-feel/icons/social-networks/color/twitter.png' alt='icon | Twitter' width='60px'/></a>
   <a href='https://www.youtube.com/@jairzinho.santos'>
     <img src='assets/look-and-feel/icons/social-networks/color/youtube.png' alt='icon | Youtube' width='60px'/></a>
   <a href='https://www.instagram.com/jairzinho.santos/'>
