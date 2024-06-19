@@ -1,8 +1,7 @@
 <img src='assets/look-and-feel/banner/banner_gh_jairzinho-v1.0.png' alt='my banner'>
+<br>
 
-<h1 align="Left">
-  Hi, I'm Jairzinho Santos 🇵🇪👋
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=30&pause=1000&color=FDFDFD&random=false&width=435&lines=%F0%9F%91%8B+Hey!+I'm+Jairzinho+Santos" alt="Typing SVG" /></a>
 
 **`AI Engineer & Researcher | Solution Architect`**
 
