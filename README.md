@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=30&pause=1000&color=FDFDFD&random=false&width=435&lines=%F0%9F%91%8B+Hey!+I'm+Jairzinho+Santos" alt="Typing SVG" /></a>
 
-**`AI Engineer & Researcher | Solution Architect`**
+**`AI Engineer & Researcher | Solutions Architect`**
 
 A human passionate about technology, business, innovation and future. 6+ years in business technology ecosystem.
 Currently, I serve as AI Engineer, while also engaging in AI research within a global community.
