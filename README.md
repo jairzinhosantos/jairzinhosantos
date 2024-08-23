@@ -5,11 +5,8 @@
 
 **`AI Engineer & Researcher | Solutions Architect`**
 
-A human passionate about technology, business, innovation and future. 6+ years in business technology ecosystem.
+A human passionate about technology, business, innovation and future. 7+ years in business technology ecosystem.
 Currently, I serve as AI Engineer, while also engaging in AI research within a global community.
-
-Building a exciting ventures:
-- [**`Ai Curious Minds`**](https://www.aicuriousminds.com) A vibrant AI enthusiasts global community committed to empowering humanity for an AI-driven future.
 
 Actively researching areas such as LLMs, Generative AI, Reinforcement Learning, Computer Vision, Neural Networks, Quantum Computing and Computational Neuroscience.
 
