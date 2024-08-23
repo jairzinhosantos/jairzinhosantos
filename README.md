@@ -5,12 +5,11 @@
 
 **`AI Engineer & Researcher | Solutions Architect`**
 
-A human passionate about technology, business, innovation and future. 7+ years in business technology ecosystem.
-Currently, I serve as AI Engineer, while also engaging in AI research within a global community.
+**A human passionate about technology, business, and the future.** <br>
+With over 7 years in the business technology ecosystem, I currently serve as an AI Engineer and actively contribute to AI research within a global community.
 
-Actively researching areas such as LLMs, Generative AI, Reinforcement Learning, Computer Vision, Neural Networks, Quantum Computing and Computational Neuroscience.
-
-I've just launched my Discord, a space dedicated to sharing the latest in AI and insights from my journey deep dive into AI.
+🔍 **Research Focus:** <br>
+Exploring cutting-edge areas like LLMs, Generative AI, Reinforcement Learning, Computer Vision, Neural Networks, Quantum Computing, and Computational Neuroscience.
 
 <h2 align="left">
   Technology Background:
@@ -77,8 +76,6 @@ I've just launched my Discord, a space dedicated to sharing the latest in AI and
   Connect with me:
 </h2>
 <p align='left'>
-  <a href='pending_discord_link'>
-    <img src='assets/look-and-feel/icons/social-networks/color/discord.png' alt='icon | Discord' width='60px'/></a>
   <a href='https://www.linkedin.com/in/jairzinhosantos/'>
     <img src='assets/look-and-feel/icons/social-networks/color/linkedin.png' alt='icon | Linkedin' width='60px'/></a>
   <a href='https://twitter.com/_jairzinho_'>
