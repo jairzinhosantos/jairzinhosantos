@@ -13,10 +13,10 @@ Currently, an AI Engineer at Regional Consulting, and AI Researcher, leading AI 
 Exploring cutting-edge areas like LLMs, Generative AI, Reinforcement Learning, Computer Vision, Neural Networks, Quantum Computing, and Computational Neuroscience.
 
 🌟 **Highlights:** <br>
-- Solution Architecture: Designing end2end solutions architecture in cloud, on-premise or hybrid.
-- AI Development: Design and solution development with AI models including generative AI and LLMs.
-- Leadership: Leadership with 360° vision, Guiding teams to achieve business goals.
-- Strategic Design: Strategic evaluation and planning.
+- **Solution Architecture:** Designing end2end solutions architecture in cloud, on-premise or hybrid.
+- **AI Development:** Design and solution development with AI models including generative AI and LLMs.
+- **Leadership:** Leadership with 360° vision, Guiding teams to achieve business goals.
+- **Strategic Design:** Strategic evaluation and planning.
 
 
 
