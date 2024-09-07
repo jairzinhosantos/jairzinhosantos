@@ -6,10 +6,19 @@
 **`AI Engineer & Researcher | Solutions Architect`**
 
 **A human passionate about technology, business, and the future.** <br>
-With over 7 years in the business technology ecosystem, I currently serve as an AI Engineer and actively contribute to AI research within a global community.
+With 7+ years in solutions architecture, experienced across Latin America in banking, insurance, telecom, retail, mining and more. 
+Currently, an AI Engineer at Regional Consulting, and AI Researcher, leading AI Curious Minds, a global community focused on Generative AI advancements.
 
 🔍 **Research Focus:** <br>
 Exploring cutting-edge areas like LLMs, Generative AI, Reinforcement Learning, Computer Vision, Neural Networks, Quantum Computing, and Computational Neuroscience.
+
+🌟 **Highlights:** <br>
+- Solution Architecture: Designing end2end solutions architecture in cloud, on-premise or hybrid.
+- AI Development: Design and solution development with AI models including generative AI and LLMs.
+- Leadership: Leadership with 360° vision, Guiding teams to achieve business goals.
+- Strategic Design: Strategic evaluation and planning.
+
+
 
 <h2 align="left">
   Technology Background:
