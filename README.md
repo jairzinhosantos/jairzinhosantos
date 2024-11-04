@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=30&pause=1000&color=FDFDFD&random=false&width=435&lines=%F0%9F%91%8B+Hey!+I'm+Jairzinho+Santos" alt="Typing SVG" /></a>
 
-**`AI Engineer & Researcher | Solutions Architect`**
+**`AI Engineer & Researcher | Generative AI Consultant | Solutions Architect`**
 
 **A human passionate about technology, business, and the future.** <br>
 With 7+ years in solutions architecture, experienced across Latin America in banking, insurance, telecom, retail, mining and more. 
