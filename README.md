@@ -34,26 +34,6 @@ Currently, I serve as an **AI Solutions Architect** at Latam Consultancy, leadin
 - Computational Neuroscience  
 
 
-<h2 align="left">Technological Proficiency</h2>
-
-🤖 **AI Models:**  
-- **GPT Series:** gpt-4o, gpt-4o-mini, o1-mini, o1-preview, o1, gpt-4o-realtime-preview.  
-- **Gemini Series:** gemini-1.5-flash, gemini-1.5-pro, gemini-2.0-flash-exp.  
-- **Claude Series:** claude-3.5-sonnet.  
-- **LLaMA Series:** llama-3.2, llama-3.1.  
-- **Other Advanced Models:** grok-2, DeepSeek-V3/R1, mixtral-8x7B, phi-3.5-vision.  
-
-🛠️ **Techniques, Tools & Frameworks:**  
-- **Frameworks:** LangChain.  
-- **Prompting Techniques:** Few-shot, Chain-of-Thought, ReAct, Reflexion, Self-Consistency, Tree-of-Thought.  
-- **RAG (Retrieval-Augmented Generation):** Cosine Similarity, Reranking, Classification, Hypothetical Document Embeddings (HyDE).  
-- **Fine-Tuning & Optimization:** Prompt Tuning, LoRA, advanced evaluations, and accuracy optimizations.  
-- **Multi-Agent Systems:** LangGraph, AutoGen, Swarm, CrewAI.  
-- **LLMOps:** Langfuse, LangSmith, Azure AI Foundry (Prompt Flow).  
-- **Integration:** APIs, Databases (NoSQL, SQL), Filesystems, CRM platforms, and enterprise systems.  
-- **Cloud Platforms:** Azure AI Foundry, Amazon Bedrock, Google Vertex AI.  
-
-
 <h2 align="left">Service Catalog</h2>
 
 📂 **Explore My Services:**  
