@@ -111,7 +111,7 @@ Discover a detailed overview of my offerings, including AI consulting, solution 
 <p align='left'>
   <a href='https://www.linkedin.com/in/jairzinhosantos/'>
     <img src='assets/look-and-feel/icons/social-networks/color/linkedin.png' alt='icon | Linkedin' width='60px'/></a>
-  <a href='https://www.x.com/in/jairzinhosantos/'>
+  <a href='https://www.x.com/_jairzinho_/'>
     <img src='assets/look-and-feel/icons/social-networks/color/x.png' alt='icon | X' width='60px'/></a>
   <a href='https://www.youtube.com/@jairzinho.santos'>
     <img src='assets/look-and-feel/icons/social-networks/color/youtube.png' alt='icon | Youtube' width='60px'/></a>
