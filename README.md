@@ -1,4 +1,4 @@
-<img src='assets/look-and-feel/banner/banner_gh_jairzinho-v1.0.png' alt='my banner'>
+<img src='assets/look-and-feel/banner/github-banner-v2.0.png' alt='my banner'>
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=30&pause=1000&color=FDFDFD&random=false&width=435&lines=%F0%9F%91%8B+Hey!+I'm+Jairzinho+Santos" alt="Typing SVG" /></a>
