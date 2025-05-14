@@ -1,9 +1,10 @@
-<img src='assets/look-and-feel/banner/github_banner-v2.0.png' alt='my banner'>
+<img src="assets/look-and-feel/banner/github_banner-MCST.jpg" alt="my banner">
+
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=30&pause=1000&color=FDFDFD&random=false&width=435&lines=%F0%9F%91%8B+Hey!+I'm+Jairzinho+Santos" alt="Typing SVG" /></a>
 
-**`AI Architect | Researcher | AI Master’s Candidate`**
+**`AI Solutions Architect | AI Engineer & Researcher | AI Master’s Candidate`**
 
 **A human passionate about technology, business, and the future.** <br>
 
