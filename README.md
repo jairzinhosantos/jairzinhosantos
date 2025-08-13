@@ -6,32 +6,36 @@
 
 **`AI Solutions Architect • Engineer • Researcher • Speaker • AI Master's Candidate`**
 
-**A human passionate about technology, business, and the future.** <br>
+**A human passionate about technology, business, science and the future.** <br>
 
 
 <h2 align="left">Professional Overview</h2>
 
-👨‍💻 IT professional with **8+ years** in the Tech Ecosystem. I specialize in designing **impactful and scalable Generative AI solution architectures**. With extensive experience across **hundreds of projects** in Latin America, I’ve worked in diverse industries such as banking, insurance, telecom, retail, mining, healthcare, and more.  
+IT professional with **8+ years** in the Tech Ecosystem. I specialize in designing **impactful and scalable Generative AI and data-driven solutions**,with a holistic, cross-functional view of business strategy. I've led **hundreds of projects** across Latin America in industries such as banking, insurance, telecom, retail, mining, health, and more.  
 
-Currently, I serve as an **AI Solutions Architect** at Latam Consultancy, leading the design and implementation of cutting-edge AI solutions. I’m also actively building a **global community** focused on advancing Generative AI technologies.  
+Currently, I serve as an **AI Solutions Architect** at a AI Leading Consultancy in Latin America, where I lead the design and implementation of cutting-edge AI solutions. I'm also pursuing a **Master's in Artificial Intelligence** to deepen my technical and strategic capabilities, while actively contributing to the global AI community through talks, training, and collaborative innovation.
+
 
 
 <h2 align="left">Core Expertise</h2>
 
-🚀 **Highlights of My Work:**  
+**Highlights of My Work:**
+- **Artificial Intelligence:** Design of AI solutions using **cutting-edge models**, with a focus on **enterprise applications**.  
 - **Solution Architecture:** Designing end-to-end GenAI architectures for **cloud, on-premise, and hybrid environments**.  
-- **Development:** Building solutions using **state-of-the-art AI models** and scalable techniques.  
+- **Development:** Building solutions using **state-of-the-art AI models** and modern development practices.  
 - **User-Centric Design (UX):** Crafting **human-centered solutions** that prioritize user experience.  
-- **Leadership:** Guiding **cross-functional teams** with a 360° vision to achieve strategic business objectives.  
-- **Strategic Design:** Evaluating, planning, and aligning **Generative AI initiatives** with organizational goals.  
+- **Leadership:** Driving **cross-functional teams** with a 360° vision strategy.  
+- **Strategic Design:** Evaluating, planning, and aligning **Generative AI initiatives** with business goals.  
 
 
 <h2 align="left">Research Focus</h2>
 
 🔬 **Areas of Exploration:**  
-- Generative AI  
+- Artificial General Intelligence
+- Machine Consciousness
+- Interpretability
+- AI Ethics
 - Reinforcement Learning  
-- Quantum Computing  
 - Computational Neuroscience  
 
 
@@ -45,8 +49,7 @@ Discover a detailed overview of my offerings, including AI consulting, solution 
 
 <h2 align="left">Mission</h2>
 
-🌍 My mission is to **empower organizations through AI**, transforming user experiences into **strategic assets** that drive business success and deliver **competitive advantages**.  
-
+My mission is to **empower organizations through AI and data**, translating complex needs into **high-value, scalable solutions** that drive innovation and **competitive advantage**.
 
 <h2 align="left">Technology Background</h2>
 <p align='left' alt='icon | ai-models'>
